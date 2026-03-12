@@ -9,7 +9,7 @@ class Dirnotes < Formula
 
   def install
     bin.install "src/dirnotes.sh" => "dirnotes"
-    (share/"dirnotes").install Dir("share/dirnotes/*")
+    (share/"dirnotes").install Dir["share/dirnotes/*"]
   end
 
   test do
