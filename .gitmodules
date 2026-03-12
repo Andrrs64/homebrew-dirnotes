@@ -1,0 +1,9 @@
+[submodule "share/dirnotes/pack/plugins/start/dirnotes.nvim"]
+	path = share/dirnotes/pack/plugins/start/dirnotes.nvim
+	url = https://github.com/Andrrs64/dirnotes.nvim
+[submodule "share/dirnotes/pack/plugins/start/oil.nvim"]
+	path = share/dirnotes/pack/plugins/start/oil.nvim
+	url = https://github.com/stevearc/oil.nvim
+[submodule "share/dirnotes/pack/plugins/start/nvim-web-devicons"]
+	path = share/dirnotes/pack/plugins/start/nvim-web-devicons
+	url = https://github.com/nvim-tree/nvim-web-devicons
