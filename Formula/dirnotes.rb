@@ -1,4 +1,4 @@
-class DirnotesCli < Formula
+class Dirnotes < Formula
   desc "A simple neovim based notes editor, where you can take notes based on your cwd"
   homepage "https://github.com/Andrrs64/homebrew-dirnotes"
   url "https://github.com/Andrrs64/homebrew-dirnotes/archive/refs/tags/0.1.tar.gz"
